@@ -1,3 +1,5 @@
+## Flash/Scaleform is deprecated in Dota2Reborn. No further support for this module.
+
 # CustomError
 
 [Preview](http://puu.sh/b6gXN/112b20d2ac.webm)
